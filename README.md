@@ -55,7 +55,7 @@ Clone this repository:
 
 bash
 Copy code
-## git clone https://github.com/akashhh23/starbucks-revenue-dashboard.git  
+## git clone https://github.com/akashhh23/E-Commerce--Power-Bi/tree/main 
 Open the starbucks_dashboard.pbix file in Power BI Desktop.
 
 Explore the interactive dashboard and discover insights!
